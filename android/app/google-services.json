@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893575981569",
+    "project_id": "gymmi-485c9",
+    "storage_bucket": "gymmi-485c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893575981569:android:e8218f406ebd27b5ae2e00",
+        "android_client_info": {
+          "package_name": "com.example.gymmi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMHBb_fo4XOB8dyBeW9n1ee2PwzFlto6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
